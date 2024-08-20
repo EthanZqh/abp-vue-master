@@ -47,3 +47,12 @@
 /asp.netcore/framework/auditing/LINGYUN.Abp.AuditLogging.EntityFrameworkCore/LINGYUN/Abp/AuditLogging/EntityFrameworkCore/SecurityLogManager.cs
 /asp.netcore/framework/auditing/LINGYUN.Abp.AuditLogging.EntityFrameworkCore/FodyWeavers.xml
 /asp.netcore/framework/auditing/LINGYUN.Abp.AuditLogging.EntityFrameworkCore/README.md
+/asp.netcore/framework/elasticsearch/LINGYUN.Abp.Elasticsearch/LINGYUN.Abp.Elasticsearch.csproj
+/asp.netcore/framework/elasticsearch/LINGYUN.Abp.Elasticsearch/LINGYUN/Abp/Elasticsearch/AbpElasticsearchModule.cs
+/asp.netcore/framework/elasticsearch/LINGYUN.Abp.Elasticsearch/LINGYUN/Abp/Elasticsearch/AbpElasticsearchOptions.cs
+/asp.netcore/framework/elasticsearch/LINGYUN.Abp.Elasticsearch/LINGYUN/Abp/Elasticsearch/ElasticsearchClientFactory.cs
+/asp.netcore/framework/elasticsearch/LINGYUN.Abp.Elasticsearch/LINGYUN/Abp/Elasticsearch/IElasticsearchClientFactory.cs
+/asp.netcore/framework/elasticsearch/LINGYUN.Abp.Elasticsearch/FodyWeavers.xml
+/asp.netcore/framework/elasticsearch/LINGYUN.Abp.Elasticsearch/README.md
+/asp.netcore/framework/elasticsearch/LINGYUN.Abp.Elasticsearch/LINGYUN.Abp.Elasticsearch.csproj
+/asp.netcore/framework/elasticsearch/LINGYUN.Abp.Elasticsearch/FodyWeavers.xml
