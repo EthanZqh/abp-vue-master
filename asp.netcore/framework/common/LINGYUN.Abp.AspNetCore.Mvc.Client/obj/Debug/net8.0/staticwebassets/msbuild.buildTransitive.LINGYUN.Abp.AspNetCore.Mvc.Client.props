@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LINGYUN.Abp.AspNetCore.Mvc.Client.props" />
+</Project>

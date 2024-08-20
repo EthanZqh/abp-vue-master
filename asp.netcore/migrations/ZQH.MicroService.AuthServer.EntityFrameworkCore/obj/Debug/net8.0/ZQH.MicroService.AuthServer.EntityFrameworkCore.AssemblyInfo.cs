@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("colin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("8.1.3.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.1.3+5226eb5fab0dd2bd59b1640bee8f4d9c5226d72e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.1.3+235b05d9b3df4842f255d568ca007d294bcd0d84")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZQH.MicroService.AuthServer.EntityFrameworkCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZQH.MicroService.AuthServer.EntityFrameworkCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("8.1.3.0")]

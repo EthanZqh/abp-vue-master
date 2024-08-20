@@ -1,0 +1,15 @@
+E:\abp-vue-master\asp.netcore\LocalNuget\net8.0\ZQH.Abp.Data.DbMigrator.deps.json
+E:\abp-vue-master\asp.netcore\LocalNuget\net8.0\ZQH.Abp.Data.DbMigrator.dll
+E:\abp-vue-master\asp.netcore\LocalNuget\net8.0\ZQH.Abp.Data.DbMigrator.pdb
+E:\abp-vue-master\asp.netcore\framework\common\LINGYUN.Abp.Data.DbMigrator\obj\Debug\net8.0\ZQH.Abp.Data.DbMigrator.csproj.AssemblyReference.cache
+E:\abp-vue-master\asp.netcore\framework\common\LINGYUN.Abp.Data.DbMigrator\obj\Debug\net8.0\ZQH.Abp.Data.DbMigrator.GeneratedMSBuildEditorConfig.editorconfig
+E:\abp-vue-master\asp.netcore\framework\common\LINGYUN.Abp.Data.DbMigrator\obj\Debug\net8.0\ZQH.Abp.Data.DbMigrator.AssemblyInfoInputs.cache
+E:\abp-vue-master\asp.netcore\framework\common\LINGYUN.Abp.Data.DbMigrator\obj\Debug\net8.0\ZQH.Abp.Data.DbMigrator.AssemblyInfo.cs
+E:\abp-vue-master\asp.netcore\framework\common\LINGYUN.Abp.Data.DbMigrator\obj\Debug\net8.0\ZQH.Abp.Data.DbMigrator.csproj.CoreCompileInputs.cache
+E:\abp-vue-master\asp.netcore\framework\common\LINGYUN.Abp.Data.DbMigrator\obj\Debug\net8.0\ZQH.Abp.Data.DbMigrator.sourcelink.json
+E:\abp-vue-master\asp.netcore\framework\common\LINGYUN.Abp.Data.DbMigrator\obj\Debug\net8.0\ZQH.Abp.Data.DbMigrator.csproj.Fody.CopyLocal.cache
+E:\abp-vue-master\asp.netcore\framework\common\LINGYUN.Abp.Data.DbMigrator\obj\Debug\net8.0\ZQH.Abp.Data.DbMigrator.csproj.Fody.RuntimeCopyLocal.cache
+E:\abp-vue-master\asp.netcore\framework\common\LINGYUN.Abp.Data.DbMigrator\obj\Debug\net8.0\ZQH.Abp.Data.DbMigrator.dll
+E:\abp-vue-master\asp.netcore\framework\common\LINGYUN.Abp.Data.DbMigrator\obj\Debug\net8.0\refint\ZQH.Abp.Data.DbMigrator.dll
+E:\abp-vue-master\asp.netcore\framework\common\LINGYUN.Abp.Data.DbMigrator\obj\Debug\net8.0\ZQH.Abp.Data.DbMigrator.pdb
+E:\abp-vue-master\asp.netcore\framework\common\LINGYUN.Abp.Data.DbMigrator\obj\Debug\net8.0\ref\ZQH.Abp.Data.DbMigrator.dll

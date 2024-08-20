@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LINGYUN.Linq.Dynamic.Queryable</id>
+    <version>8.1.3</version>
+    <authors>colin</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/colinin/abp-next-admin</projectUrl>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/colinin/abp-next-admin" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="JetBrains.Annotations" version="2023.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.ComponentModel.Annotations" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\AbpVue\abpvue8.1(github)\aspnet-core\LocalNuget\netstandard2.0\LINGYUN.Linq.Dynamic.Queryable.dll" target="lib\netstandard2.0\LINGYUN.Linq.Dynamic.Queryable.dll" />
+  </files>
+</package>

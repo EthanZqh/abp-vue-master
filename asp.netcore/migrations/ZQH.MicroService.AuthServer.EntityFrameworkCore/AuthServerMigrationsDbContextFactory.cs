@@ -13,7 +13,7 @@ public class AuthServerMigrationsDbContextFactory : IDesignTimeDbContextFactory<
         var connectionString = configuration.GetConnectionString("Default");
 
         var builder = new DbContextOptionsBuilder<AuthServerMigrationsDbContext>()
-            .UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
+            .UseSqlServer(connectionString);
 
         return new AuthServerMigrationsDbContext(builder!.Options);
     }
@@ -21,7 +21,7 @@ public class AuthServerMigrationsDbContextFactory : IDesignTimeDbContextFactory<
     private static IConfigurationRoot BuildConfiguration()
     {
         var builder = new ConfigurationBuilder()
-            .SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../LY.MicroService.AuthServer.DbMigrator/"))
+            .SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../ZQH.MicroService.AuthServer.DbMigrator/"))
             .AddJsonFile("appsettings.json", optional: false);
 
         return builder.Build();

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PZzi9lmgp83S1EVKBSqelKUaFRnXDFVlx9fEgWZRzGU=",
+  "Source": "LINGYUN.Abp.AspNetCore.Mvc.Client",
+  "BasePath": "_content/LINGYUN.Abp.AspNetCore.Mvc.Client",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

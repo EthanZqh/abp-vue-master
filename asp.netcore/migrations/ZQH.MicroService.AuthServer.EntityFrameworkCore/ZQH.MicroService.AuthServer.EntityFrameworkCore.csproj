@@ -14,7 +14,7 @@
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>
 		<PackageReference Include="Volo.Abp.Authorization" />
-		<PackageReference Include="Volo.Abp.EntityFrameworkCore.MySql" />
+		<PackageReference Include="Volo.Abp.EntityFrameworkCore.SqlServer" />
 		<PackageReference Include="Volo.Abp.OpenIddict.EntityFrameworkCore" />
 		<PackageReference Include="Volo.Abp.FeatureManagement.EntityFrameworkCore" />
 		<PackageReference Include="Volo.Abp.SettingManagement.EntityFrameworkCore" />
@@ -27,6 +27,10 @@
 		<ProjectReference Include="..\..\modules\identity\LINGYUN.Abp.Identity.EntityFrameworkCore\ZQH.Abp.Identity.EntityFrameworkCore.csproj" />
 		<ProjectReference Include="..\..\modules\saas\LINGYUN.Abp.Saas.EntityFrameworkCore\ZQH.Abp.Saas.EntityFrameworkCore.csproj" />
 		<ProjectReference Include="..\..\modules\text-templating\LINGYUN.Abp.TextTemplating.EntityFrameworkCore\ZQH.Abp.TextTemplating.EntityFrameworkCore.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Migrations\" />
 	</ItemGroup>
 
 </Project>
