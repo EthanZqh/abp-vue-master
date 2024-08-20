@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZQH.MicroService.AuthServer.DbMigrator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5226eb5fab0dd2bd59b1640bee8f4d9c5226d72e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+235b05d9b3df4842f255d568ca007d294bcd0d84")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZQH.MicroService.AuthServer.DbMigrator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZQH.MicroService.AuthServer.DbMigrator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
