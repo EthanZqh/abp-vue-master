@@ -1,0 +1,6 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/asp.netcore/framework/authorization/LINGYUN.Abp.Authorization.OrganizationUnits/ZQH.Abp.Authorization.OrganizationUnits.csproj
+/asp.netcore/framework/authorization/LINGYUN.Abp.Authorization.OrganizationUnits/ZQH/Abp/Authorization/OrganizationUnits/AbpAuthorizationOrganizationUnitsModule.cs
