@@ -162,3 +162,8 @@
 /asp.netcore/framework/auditing/LINGYUN.Abp.AuditLogging/obj/LINGYUN.Abp.AuditLogging.csproj.nuget.g.targets
 /asp.netcore/framework/auditing/LINGYUN.Abp.AuditLogging/obj/project.assets.json
 /asp.netcore/framework/auditing/LINGYUN.Abp.AuditLogging/obj/project.nuget.cache
+/asp.netcore/framework/elasticsearch/ZQH.Abp.Elasticsearch/ZQH/Abp/Elasticsearch/AbpElasticsearchModule.cs
+/asp.netcore/framework/elasticsearch/ZQH.Abp.Elasticsearch/ZQH/Abp/Elasticsearch/AbpElasticsearchOptions.cs
+/asp.netcore/framework/elasticsearch/ZQH.Abp.Elasticsearch/ZQH/Abp/Elasticsearch/ElasticsearchClientFactory.cs
+/asp.netcore/framework/elasticsearch/ZQH.Abp.Elasticsearch/ZQH/Abp/Elasticsearch/IElasticsearchClientFactory.cs
+/asp.netcore/framework/elasticsearch/ZQH.Abp.Elasticsearch/ZQH.Abp.Elasticsearch.csproj
