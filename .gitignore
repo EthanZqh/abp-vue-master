@@ -260,3 +260,10 @@
 /asp.netcore/migrations/ZQH.MicroService.Platform.EntityFrameworkCore/PlatformMigrationsDbContextFactory.cs
 /asp.netcore/migrations/ZQH.MicroService.Platform.EntityFrameworkCore/PlatformMigrationsEntityFrameworkCoreModule.cs
 /asp.netcore/migrations/ZQH.MicroService.Platform.EntityFrameworkCore/ZQH.MicroService.Platform.EntityFrameworkCore.csproj
+/asp.netcore/migrations/ZQH.MicroService.Platform.DbMigrator/ZQH.MicroService.Platform.DbMigrator.csproj
+/asp.netcore/migrations/ZQH.MicroService.Platform.DbMigrator/appsettings.json
+/asp.netcore/migrations/ZQH.MicroService.Platform.DbMigrator/PlatformDbMigratorHostedService.cs
+/asp.netcore/migrations/ZQH.MicroService.Platform.DbMigrator/PlatformDbMigratorModule.Configure.cs
+/asp.netcore/migrations/ZQH.MicroService.Platform.DbMigrator/PlatformDbMigratorModule.cs
+/asp.netcore/migrations/ZQH.MicroService.Platform.DbMigrator/Program.cs
+/asp.netcore/migrations/ZQH.MicroService.Platform.DbMigrator/Usings.cs
