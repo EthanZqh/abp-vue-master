@@ -511,3 +511,10 @@
 /asp.netcore/modules/platform/ZQH.Platform.HttpApi/ZQH/Platform/PlatformControllerBase.cs
 /asp.netcore/modules/platform/ZQH.Platform.HttpApi/ZQH/Platform/PlatformHttpApiModule.cs
 /asp.netcore/modules/platform/ZQH.Platform.HttpApi/ZQH.Platform.HttpApi.csproj
+/asp.netcore/modules/platform/ZQH.Platform.Settings.VueVbenAdmin/ZQH.Platform.Settings.VueVbenAdmin.csproj
+/asp.netcore/modules/platform/ZQH.Platform.Settings.VueVbenAdmin/FodyWeavers.xml
+/asp.netcore/modules/platform/ZQH.Platform.Settings.VueVbenAdmin/ZQH/Platform/Settings/VueVbenAdmin/Localization/Resources/en.json
+/asp.netcore/modules/platform/ZQH.Platform.Settings.VueVbenAdmin/ZQH/Platform/Settings/VueVbenAdmin/Localization/Resources/zh-Hans.json
+/asp.netcore/modules/platform/ZQH.Platform.Settings.VueVbenAdmin/ZQH/Platform/Settings/VueVbenAdmin/PlatformSettingsVueVbenAdminModule.cs
+/asp.netcore/modules/platform/ZQH.Platform.Settings.VueVbenAdmin/ZQH/Platform/Settings/VueVbenAdmin/VueVbenAdminSettingDefinitionProvider.cs
+/asp.netcore/modules/platform/ZQH.Platform.Settings.VueVbenAdmin/ZQH/Platform/Settings/VueVbenAdmin/VueVbenAdminSettingNames.cs
