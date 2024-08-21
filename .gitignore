@@ -71,3 +71,15 @@
 /asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/ISecurityLogManager.cs
 /asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/SecurityLog.cs
 /asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/SecurityLogStore.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH/Abp/AuditLogging/Elasticsearch/AbpAuditLoggingElasticsearchModule.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH/Abp/AuditLogging/Elasticsearch/AbpAuditLoggingElasticsearchOptions.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH/Abp/AuditLogging/Elasticsearch/AuditLogInfoToAuditLogConverter.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH/Abp/AuditLogging/Elasticsearch/ElasticsearchAuditLogManager.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH/Abp/AuditLogging/Elasticsearch/ElasticsearchEntityChangeStore.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH/Abp/AuditLogging/Elasticsearch/ElasticsearchSecurityLogManager.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH/Abp/AuditLogging/Elasticsearch/IAuditLogInfoToAuditLogConverter.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH/Abp/AuditLogging/Elasticsearch/IIndexInitializer.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH/Abp/AuditLogging/Elasticsearch/IIndexNameNormalizer.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH/Abp/AuditLogging/Elasticsearch/IndexInitializer.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH/Abp/AuditLogging/Elasticsearch/IndexInitializerService.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH/Abp/AuditLogging/Elasticsearch/IndexNameNormalizer.cs
