@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="..\..\..\..\configureawait.props" />
+	<Import Project="..\..\..\..\common.props" />
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<RootNamespace />
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Volo.Abp.Data" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\..\..\framework\navigation\ZQH.Abp.UI.Navigation\ZQH.Abp.UI.Navigation.csproj" />
+		<ProjectReference Include="..\ZQH.Platform.Domain\ZQH.Platform.Domain.csproj" />
+	</ItemGroup>
+
+</Project>

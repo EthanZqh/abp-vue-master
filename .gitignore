@@ -491,3 +491,12 @@
 /asp.netcore/modules/platform/ZQH.Platform.Application/ZQH/Platform/PlatformApplicationModule.cs
 /asp.netcore/modules/platform/ZQH.Platform.Application/ZQH/Platform/PlatformApplicationServiceBase.cs
 /asp.netcore/modules/platform/ZQH.Platform.Application/ZQH.Platform.Application.csproj
+/asp.netcore/modules/platform/ZQH.Abp.UI.Navigation.VueVbenAdmin/FodyWeavers.xml
+/asp.netcore/modules/platform/ZQH.Abp.UI.Navigation.VueVbenAdmin/README.md
+/asp.netcore/modules/platform/ZQH.Abp.UI.Navigation.VueVbenAdmin/ZQH/Abp/UI/Navigation/VueVbenAdmin/AbpUINavigationVueVbenAdminModule.cs
+/asp.netcore/modules/platform/ZQH.Abp.UI.Navigation.VueVbenAdmin/ZQH/Abp/UI/Navigation/VueVbenAdmin/AbpUINavigationVueVbenAdminNavigationDefinitionProvider.cs
+/asp.netcore/modules/platform/ZQH.Abp.UI.Navigation.VueVbenAdmin/ZQH/Abp/UI/Navigation/VueVbenAdmin/AbpUINavigationVueVbenAdminOptions.cs
+/asp.netcore/modules/platform/ZQH.Abp.UI.Navigation.VueVbenAdmin/ZQH/Abp/UI/Navigation/VueVbenAdmin/VueVbenAdminNavigationSeedContributor.cs
+/asp.netcore/modules/platform/ZQH.Abp.UI.Navigation.VueVbenAdmin/ZQH/Abp/UI/Navigation/VueVbenAdmin/VueVbenAdminStandardMenuConverter.cs
+/asp.netcore/modules/platform/ZQH.Abp.UI.Navigation.VueVbenAdmin/ZQH.Abp.UI.Navigation.VueVbenAdmin.csproj
+/asp.netcore/modules/platform/ZQH.Platform.Application/ZQH.Platform.Application.csproj
