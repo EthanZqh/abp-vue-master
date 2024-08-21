@@ -500,3 +500,14 @@
 /asp.netcore/modules/platform/ZQH.Abp.UI.Navigation.VueVbenAdmin/ZQH/Abp/UI/Navigation/VueVbenAdmin/VueVbenAdminStandardMenuConverter.cs
 /asp.netcore/modules/platform/ZQH.Abp.UI.Navigation.VueVbenAdmin/ZQH.Abp.UI.Navigation.VueVbenAdmin.csproj
 /asp.netcore/modules/platform/ZQH.Platform.Application/ZQH.Platform.Application.csproj
+/asp.netcore/modules/platform/ZQH.Abp.UI.Navigation.VueVbenAdmin/ZQH.Abp.UI.Navigation.VueVbenAdmin.csproj
+/asp.netcore/modules/platform/ZQH.Platform.Application/ZQH.Platform.Application.csproj
+/asp.netcore/modules/platform/ZQH.Platform.HttpApi/FodyWeavers.xml
+/asp.netcore/modules/platform/ZQH.Platform.HttpApi/ZQH/Platform/Datas/DataController.cs
+/asp.netcore/modules/platform/ZQH.Platform.HttpApi/ZQH/Platform/Layouts/LayoutController.cs
+/asp.netcore/modules/platform/ZQH.Platform.HttpApi/ZQH/Platform/Menus/MenuController.cs
+/asp.netcore/modules/platform/ZQH.Platform.HttpApi/ZQH/Platform/Menus/UserFavoriteMenuController.cs
+/asp.netcore/modules/platform/ZQH.Platform.HttpApi/ZQH/Platform/Packages/PackageController.cs
+/asp.netcore/modules/platform/ZQH.Platform.HttpApi/ZQH/Platform/PlatformControllerBase.cs
+/asp.netcore/modules/platform/ZQH.Platform.HttpApi/ZQH/Platform/PlatformHttpApiModule.cs
+/asp.netcore/modules/platform/ZQH.Platform.HttpApi/ZQH.Platform.HttpApi.csproj
