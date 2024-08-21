@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="..\..\..\..\configureawait.props" />
+	<Import Project="..\..\..\..\common.props" />
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<RootNamespace />
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Volo.Abp.AspNetCore.Mvc" />
+		<PackageReference Include="Volo.Abp.SettingManagement.Domain" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+		<ProjectReference Include="..\ZQH.Platform.Application.Contracts\ZQH.Platform.Application.Contracts.csproj" />
+		<ProjectReference Include="..\ZQH.Platform.Domain\ZQH.Platform.Domain.csproj" />
+		<ProjectReference Include="..\ZQH.Platform.Settings.VueVbenAdmin\ZQH.Platform.Settings.VueVbenAdmin.csproj" />
+	</ItemGroup>
+
+</Project>
