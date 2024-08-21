@@ -251,3 +251,12 @@
 /asp.netcore/framework/tenants/LINGYUN.Abp.MultiTenancy.Editions/obj/ZQH.Abp.MultiTenancy.Editions.csproj.nuget.g.props
 /asp.netcore/framework/tenants/LINGYUN.Abp.MultiTenancy.Editions/obj/ZQH.Abp.MultiTenancy.Editions.csproj.nuget.g.targets
 /asp.netcore/framework/tenants/LINGYUN.Abp.MultiTenancy.Editions/Volo/Abp/GlobalFeatures/GlobalModuleFeaturesDictionaryEditionsExtensions.cs
+/asp.netcore/migrations/ZQH.MicroService.Platform.EntityFrameworkCore/FodyWeavers.xml
+/asp.netcore/migrations/ZQH.MicroService.Platform.EntityFrameworkCore/Migrations/20240821181351_Initial-Platform.cs
+/asp.netcore/migrations/ZQH.MicroService.Platform.EntityFrameworkCore/Migrations/PlatformMigrationsDbContextModelSnapshot.cs
+/asp.netcore/migrations/ZQH.MicroService.Platform.EntityFrameworkCore/PlatformDbMigrationEventHandler.cs
+/asp.netcore/migrations/ZQH.MicroService.Platform.EntityFrameworkCore/PlatformDbMigrationService.cs
+/asp.netcore/migrations/ZQH.MicroService.Platform.EntityFrameworkCore/PlatformMigrationsDbContext.cs
+/asp.netcore/migrations/ZQH.MicroService.Platform.EntityFrameworkCore/PlatformMigrationsDbContextFactory.cs
+/asp.netcore/migrations/ZQH.MicroService.Platform.EntityFrameworkCore/PlatformMigrationsEntityFrameworkCoreModule.cs
+/asp.netcore/migrations/ZQH.MicroService.Platform.EntityFrameworkCore/ZQH.MicroService.Platform.EntityFrameworkCore.csproj
