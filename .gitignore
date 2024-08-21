@@ -83,3 +83,8 @@
 /asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH/Abp/AuditLogging/Elasticsearch/IndexInitializer.cs
 /asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH/Abp/AuditLogging/Elasticsearch/IndexInitializerService.cs
 /asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH/Abp/AuditLogging/Elasticsearch/IndexNameNormalizer.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.EntityFrameworkCore/ZQH/Abp/AuditLogging/EntityFrameworkCore/AbpAuditingMapperProfile.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.EntityFrameworkCore/ZQH/Abp/AuditLogging/EntityFrameworkCore/AbpAuditLoggingEntityFrameworkCoreModule.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.EntityFrameworkCore/ZQH/Abp/AuditLogging/EntityFrameworkCore/AuditLogManager.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.EntityFrameworkCore/ZQH/Abp/AuditLogging/EntityFrameworkCore/EntityChangeStore.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.EntityFrameworkCore/ZQH/Abp/AuditLogging/EntityFrameworkCore/SecurityLogManager.cs
