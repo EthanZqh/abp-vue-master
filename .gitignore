@@ -59,3 +59,15 @@
 /asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/AbpAuditLoggingModule.cs
 /asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/AuditingStore.cs
 /asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/AuditLog.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/AuditLogAction.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/DefaultAuditLogManager.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/DefaultEntityChangeStore.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/DefaultSecurityLogManager.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/EntityChange.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/EntityChangeWithUsername.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/EntityPropertyChange.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/IAuditLogManager.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/IEntityChangeStore.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/ISecurityLogManager.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/SecurityLog.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/SecurityLogStore.cs
