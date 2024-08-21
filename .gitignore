@@ -202,3 +202,4 @@
 /asp.netcore/framework/tenants/ZQH.Abp.MultiTenancy.Editions/ZQH/Abp/MultiTenancy/Editions/EditionInfo.cs
 /asp.netcore/framework/tenants/ZQH.Abp.MultiTenancy.Editions/ZQH/Abp/MultiTenancy/Editions/IEditionConfigurationProvider.cs
 /asp.netcore/framework/tenants/ZQH.Abp.MultiTenancy.Editions/ZQH/Abp/MultiTenancy/Editions/IEditionStore.cs
+/asp.netcore/framework/tenants/ZQH.Abp.MultiTenancy.Editions/ZQH.Abp.MultiTenancy.Editions.csproj
