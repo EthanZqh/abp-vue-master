@@ -89,3 +89,5 @@
 /asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.EntityFrameworkCore/ZQH/Abp/AuditLogging/EntityFrameworkCore/EntityChangeStore.cs
 /asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.EntityFrameworkCore/ZQH/Abp/AuditLogging/EntityFrameworkCore/SecurityLogManager.cs
 /asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.EntityFrameworkCore/ZQH.Abp.AuditLogging.EntityFrameworkCore.csproj
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging.Elasticsearch/ZQH.Abp.AuditLogging.Elasticsearch.csproj
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH.Abp.AuditLogging.csproj
