@@ -530,7 +530,7 @@
 /asp.netcore/modules/platform/ZQH.Platform.Theme.VueVbenAdmin/ZQH/Platform/Theme/VueVbenAdmin/ThemeSettingController.cs
 /asp.netcore/modules/platform/ZQH.Platform.Theme.VueVbenAdmin/ZQH/Platform/Theme/VueVbenAdmin/ThemeSettingDto.cs
 /asp.netcore/modules/platform/ZQH.Platform.Theme.VueVbenAdmin/ZQH/Platform/Theme/VueVbenAdmin/TransitionSettingDto.cs
-/asp.netcore/modules/platform/ZQH.Platform.Theme.VueVbenAdmin/ZQH.Platform.Theme.VueVbenAdmin.csproj
+#/asp.netcore/modules/platform/ZQH.Platform.Theme.VueVbenAdmin/ZQH.Platform.Theme.VueVbenAdmin.csproj
 /asp.netcore/modules/platform/ZQH.Platform.Theme.VueVbenAdmin/FodyWeavers.xml
 /asp.netcore/modules/platform/ZQH.Platform.Theme.VueVbenAdmin/ZQH/Platform/Theme/VueVbenAdmin/BeforeMiniStateDto.cs
 /asp.netcore/modules/platform/ZQH.Platform.Theme.VueVbenAdmin/ZQH/Platform/Theme/VueVbenAdmin/HeaderSettingDto.cs
@@ -556,3 +556,4 @@
 /asp.netcore/modules/platform/ZQH.Platform.Theme.VueVbenAdmin/ZQH/Platform/Theme/VueVbenAdmin/ThemeSettingDto.cs
 /asp.netcore/modules/platform/ZQH.Platform.Theme.VueVbenAdmin/ZQH/Platform/Theme/VueVbenAdmin/TransitionSettingDto.cs
 /asp.netcore/modules/platform/ZQH.Platform.HttpApi/ZQH.Platform.HttpApi.csproj
+/asp.netcore/modules/platform/ZQH.Platform.Theme.VueVbenAdmin/ZQH.Platform.Theme.VueVbenAdmin.csproj
