@@ -58,3 +58,4 @@
 /asp.netcore/framework/elasticsearch/LINGYUN.Abp.Elasticsearch/FodyWeavers.xml
 /asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/AbpAuditLoggingModule.cs
 /asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/AuditingStore.cs
+/asp.netcore/framework/auditing/ZQH.Abp.AuditLogging/ZQH/Abp/AuditLogging/AuditLog.cs
