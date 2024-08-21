@@ -481,3 +481,13 @@
 /asp.netcore/modules/platform/ZQH.Platform.Application.Contracts/ZQH/Platform/PlatformRemoteServiceConsts.cs
 /asp.netcore/modules/platform/ZQH.Platform.Application.Contracts/ZQH/Platform/Routes/Dto/RouteDto.cs
 /asp.netcore/modules/platform/ZQH.Platform.Application.Contracts/ZQH.Platform.Application.Contracts.csproj
+/asp.netcore/modules/platform/ZQH.Platform.Application/FodyWeavers.xml
+/asp.netcore/modules/platform/ZQH.Platform.Application/ZQH/Platform/Datas/DataAppService.cs
+/asp.netcore/modules/platform/ZQH.Platform.Application/ZQH/Platform/Layouts/LayoutAppService.cs
+/asp.netcore/modules/platform/ZQH.Platform.Application/ZQH/Platform/Menus/MenuAppService.cs
+/asp.netcore/modules/platform/ZQH.Platform.Application/ZQH/Platform/Menus/UserFavoriteMenuAppService.cs
+/asp.netcore/modules/platform/ZQH.Platform.Application/ZQH/Platform/Packages/PackageAppService.cs
+/asp.netcore/modules/platform/ZQH.Platform.Application/ZQH/Platform/PlatformApplicationMappingProfile.cs
+/asp.netcore/modules/platform/ZQH.Platform.Application/ZQH/Platform/PlatformApplicationModule.cs
+/asp.netcore/modules/platform/ZQH.Platform.Application/ZQH/Platform/PlatformApplicationServiceBase.cs
+/asp.netcore/modules/platform/ZQH.Platform.Application/ZQH.Platform.Application.csproj
