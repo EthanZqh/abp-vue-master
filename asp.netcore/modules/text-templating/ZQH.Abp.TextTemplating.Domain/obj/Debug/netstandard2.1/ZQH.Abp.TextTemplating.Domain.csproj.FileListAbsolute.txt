@@ -1,0 +1,14 @@
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.1\ZQH.Abp.TextTemplating.Domain.deps.json
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.1\ZQH.Abp.TextTemplating.Domain.dll
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.1\ZQH.Abp.TextTemplating.Domain.pdb
+E:\abp-vue-master\asp.netcore\modules\text-templating\ZQH.Abp.TextTemplating.Domain\obj\Debug\netstandard2.1\ZQH.Abp.TextTemplating.Domain.csproj.AssemblyReference.cache
+E:\abp-vue-master\asp.netcore\modules\text-templating\ZQH.Abp.TextTemplating.Domain\obj\Debug\netstandard2.1\ZQH.Abp.TextTemplating.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\abp-vue-master\asp.netcore\modules\text-templating\ZQH.Abp.TextTemplating.Domain\obj\Debug\netstandard2.1\ZQH.Abp.TextTemplating.Domain.AssemblyInfoInputs.cache
+E:\abp-vue-master\asp.netcore\modules\text-templating\ZQH.Abp.TextTemplating.Domain\obj\Debug\netstandard2.1\ZQH.Abp.TextTemplating.Domain.AssemblyInfo.cs
+E:\abp-vue-master\asp.netcore\modules\text-templating\ZQH.Abp.TextTemplating.Domain\obj\Debug\netstandard2.1\ZQH.Abp.TextTemplating.Domain.csproj.CoreCompileInputs.cache
+E:\abp-vue-master\asp.netcore\modules\text-templating\ZQH.Abp.TextTemplating.Domain\obj\Debug\netstandard2.1\ZQH.Abp.TextTemplating.Domain.sourcelink.json
+E:\abp-vue-master\asp.netcore\modules\text-templating\ZQH.Abp.TextTemplating.Domain\obj\Debug\netstandard2.1\ZQH.Abp.TextTemplating.Domain.csproj.Fody.CopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\text-templating\ZQH.Abp.TextTemplating.Domain\obj\Debug\netstandard2.1\ZQH.Abp.TextTemplating.Domain.csproj.Fody.RuntimeCopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\text-templating\ZQH.Abp.TextTemplating.Domain\obj\Debug\netstandard2.1\ZQH.Abp.TextTemplating.Domain.csproj.CopyComplete
+E:\abp-vue-master\asp.netcore\modules\text-templating\ZQH.Abp.TextTemplating.Domain\obj\Debug\netstandard2.1\ZQH.Abp.TextTemplating.Domain.dll
+E:\abp-vue-master\asp.netcore\modules\text-templating\ZQH.Abp.TextTemplating.Domain\obj\Debug\netstandard2.1\ZQH.Abp.TextTemplating.Domain.pdb

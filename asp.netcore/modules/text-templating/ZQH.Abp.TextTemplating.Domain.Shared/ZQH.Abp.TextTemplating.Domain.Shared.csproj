@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="..\..\..\..\configureawait.props" />
+	<Import Project="..\..\..\..\common.props" />
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<RootNamespace />
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="ZQH\Abp\TextTemplating\Localization\Resources\*.json" />
+		<EmbeddedResource Include="ZQH\Abp\TextTemplating\Localization\Resources\*.json" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Volo.Abp.Validation" />
+		<PackageReference Include="Volo.Abp.MultiTenancy.Abstractions" />
+	</ItemGroup>
+
+</Project>

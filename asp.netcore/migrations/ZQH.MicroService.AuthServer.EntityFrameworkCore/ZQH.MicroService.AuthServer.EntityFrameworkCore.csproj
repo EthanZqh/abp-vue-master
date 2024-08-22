@@ -25,8 +25,8 @@
 		<ProjectReference Include="..\..\framework\common\LINGYUN.Abp.Data.DbMigrator\ZQH.Abp.Data.DbMigrator.csproj" />
 		<ProjectReference Include="..\..\modules\identity\ZQH.Abp.Identity.Application.Contracts\ZQH.Abp.Identity.Application.Contracts.csproj" />
 		<ProjectReference Include="..\..\modules\identity\ZQH.Abp.Identity.EntityFrameworkCore\ZQH.Abp.Identity.EntityFrameworkCore.csproj" />
-		<ProjectReference Include="..\..\modules\saas\LINGYUN.Abp.Saas.EntityFrameworkCore\ZQH.Abp.Saas.EntityFrameworkCore.csproj" />
-		<ProjectReference Include="..\..\modules\text-templating\LINGYUN.Abp.TextTemplating.EntityFrameworkCore\ZQH.Abp.TextTemplating.EntityFrameworkCore.csproj" />
+		<ProjectReference Include="..\..\modules\saas\ZQH.Abp.Saas.EntityFrameworkCore\ZQH.Abp.Saas.EntityFrameworkCore.csproj" />
+		<ProjectReference Include="..\..\modules\text-templating\ZQH.Abp.TextTemplating.EntityFrameworkCore\ZQH.Abp.TextTemplating.EntityFrameworkCore.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>

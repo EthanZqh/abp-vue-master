@@ -23,7 +23,7 @@
 		<ProjectReference Include="..\..\framework\common\LINGYUN.Abp.Data.DbMigrator\ZQH.Abp.Data.DbMigrator.csproj" />
 		<ProjectReference Include="..\..\modules\platform\ZQH.Abp.UI.Navigation.VueVbenAdmin\ZQH.Abp.UI.Navigation.VueVbenAdmin.csproj" />
 		<ProjectReference Include="..\..\modules\platform\ZQH.Platform.EntityFrameworkCore\ZQH.Platform.EntityFrameworkCore.csproj" />
-		<ProjectReference Include="..\..\modules\saas\LINGYUN.Abp.Saas.EntityFrameworkCore\ZQH.Abp.Saas.EntityFrameworkCore.csproj" />
+		<ProjectReference Include="..\..\modules\saas\ZQH.Abp.Saas.EntityFrameworkCore\ZQH.Abp.Saas.EntityFrameworkCore.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>
