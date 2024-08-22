@@ -1,0 +1,14 @@
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.0\ZQH.Abp.Identity.HttpApi.Client.deps.json
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.0\ZQH.Abp.Identity.HttpApi.Client.dll
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.0\ZQH.Abp.Identity.HttpApi.Client.pdb
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.HttpApi.Client\obj\Debug\netstandard2.0\ZQH.Abp.Identity.HttpApi.Client.csproj.AssemblyReference.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.HttpApi.Client\obj\Debug\netstandard2.0\ZQH.Abp.Identity.HttpApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.HttpApi.Client\obj\Debug\netstandard2.0\ZQH.Abp.Identity.HttpApi.Client.AssemblyInfoInputs.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.HttpApi.Client\obj\Debug\netstandard2.0\ZQH.Abp.Identity.HttpApi.Client.AssemblyInfo.cs
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.HttpApi.Client\obj\Debug\netstandard2.0\ZQH.Abp.Identity.HttpApi.Client.csproj.CoreCompileInputs.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.HttpApi.Client\obj\Debug\netstandard2.0\ZQH.Abp.Identity.HttpApi.Client.sourcelink.json
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.HttpApi.Client\obj\Debug\netstandard2.0\ZQH.Abp.Identity.HttpApi.Client.csproj.Fody.CopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.HttpApi.Client\obj\Debug\netstandard2.0\ZQH.Abp.Identity.HttpApi.Client.csproj.Fody.RuntimeCopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.HttpApi.Client\obj\Debug\netstandard2.0\ZQH.Abp.Identity.HttpApi.Client.dll
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.HttpApi.Client\obj\Debug\netstandard2.0\ZQH.Abp.Identity.HttpApi.Client.pdb
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.HttpApi.Client\obj\Debug\netstandard2.0\ZQH.Abp.Identity.HttpApi.Client.csproj.CopyComplete

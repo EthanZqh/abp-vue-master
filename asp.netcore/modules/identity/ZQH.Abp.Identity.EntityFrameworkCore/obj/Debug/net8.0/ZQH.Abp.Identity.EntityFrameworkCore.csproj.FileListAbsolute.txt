@@ -1,0 +1,16 @@
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Identity.EntityFrameworkCore.csproj.AssemblyReference.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Identity.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Identity.EntityFrameworkCore.AssemblyInfoInputs.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Identity.EntityFrameworkCore.AssemblyInfo.cs
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Identity.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Identity.EntityFrameworkCore.sourcelink.json
+E:\abp-vue-master\asp.netcore\LocalNuget\net8.0\ZQH.Abp.Identity.EntityFrameworkCore.deps.json
+E:\abp-vue-master\asp.netcore\LocalNuget\net8.0\ZQH.Abp.Identity.EntityFrameworkCore.dll
+E:\abp-vue-master\asp.netcore\LocalNuget\net8.0\ZQH.Abp.Identity.EntityFrameworkCore.pdb
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Identity.EntityFrameworkCore.csproj.Fody.CopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Identity.EntityFrameworkCore.csproj.Fody.RuntimeCopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Identity.EntityFrameworkCore.csproj.CopyComplete
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Identity.EntityFrameworkCore.dll
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.EntityFrameworkCore\obj\Debug\net8.0\refint\ZQH.Abp.Identity.EntityFrameworkCore.dll
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Identity.EntityFrameworkCore.pdb
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.EntityFrameworkCore\obj\Debug\net8.0\ref\ZQH.Abp.Identity.EntityFrameworkCore.dll

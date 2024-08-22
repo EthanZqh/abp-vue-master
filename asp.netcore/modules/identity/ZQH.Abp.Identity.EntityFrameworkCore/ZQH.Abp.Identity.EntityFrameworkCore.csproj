@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="..\..\..\..\configureawait.props" />
+	<Import Project="..\..\..\..\common.props" />
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<RootNamespace />
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Volo.Abp.Identity.EntityFrameworkCore" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\ZQH.Abp.Identity.Domain\ZQH.Abp.Identity.Domain.csproj" />
+	</ItemGroup>
+
+</Project>

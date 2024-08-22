@@ -1,0 +1,16 @@
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Application\obj\Debug\net8.0\ZQH.Abp.Identity.Application.csproj.AssemblyReference.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Application\obj\Debug\net8.0\ZQH.Abp.Identity.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Application\obj\Debug\net8.0\ZQH.Abp.Identity.Application.AssemblyInfoInputs.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Application\obj\Debug\net8.0\ZQH.Abp.Identity.Application.AssemblyInfo.cs
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Application\obj\Debug\net8.0\ZQH.Abp.Identity.Application.csproj.CoreCompileInputs.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Application\obj\Debug\net8.0\ZQH.Abp.Identity.Application.sourcelink.json
+E:\abp-vue-master\asp.netcore\LocalNuget\net8.0\ZQH.Abp.Identity.Application.deps.json
+E:\abp-vue-master\asp.netcore\LocalNuget\net8.0\ZQH.Abp.Identity.Application.dll
+E:\abp-vue-master\asp.netcore\LocalNuget\net8.0\ZQH.Abp.Identity.Application.pdb
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Application\obj\Debug\net8.0\ZQH.Abp.Identity.Application.csproj.Fody.CopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Application\obj\Debug\net8.0\ZQH.Abp.Identity.Application.csproj.Fody.RuntimeCopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Application\obj\Debug\net8.0\ZQH.Abp.Identity.Application.csproj.CopyComplete
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Application\obj\Debug\net8.0\ZQH.Abp.Identity.Application.dll
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Application\obj\Debug\net8.0\refint\ZQH.Abp.Identity.Application.dll
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Application\obj\Debug\net8.0\ZQH.Abp.Identity.Application.pdb
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Application\obj\Debug\net8.0\ref\ZQH.Abp.Identity.Application.dll

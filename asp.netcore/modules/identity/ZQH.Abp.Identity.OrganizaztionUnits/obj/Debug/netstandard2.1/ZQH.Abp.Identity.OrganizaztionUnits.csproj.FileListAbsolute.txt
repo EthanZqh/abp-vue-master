@@ -1,0 +1,14 @@
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.1\ZQH.Abp.Identity.OrganizaztionUnits.deps.json
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.1\ZQH.Abp.Identity.OrganizaztionUnits.dll
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.1\ZQH.Abp.Identity.OrganizaztionUnits.pdb
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.OrganizaztionUnits\obj\Debug\netstandard2.1\ZQH.Abp.Identity.OrganizaztionUnits.csproj.AssemblyReference.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.OrganizaztionUnits\obj\Debug\netstandard2.1\ZQH.Abp.Identity.OrganizaztionUnits.GeneratedMSBuildEditorConfig.editorconfig
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.OrganizaztionUnits\obj\Debug\netstandard2.1\ZQH.Abp.Identity.OrganizaztionUnits.AssemblyInfoInputs.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.OrganizaztionUnits\obj\Debug\netstandard2.1\ZQH.Abp.Identity.OrganizaztionUnits.AssemblyInfo.cs
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.OrganizaztionUnits\obj\Debug\netstandard2.1\ZQH.Abp.Identity.OrganizaztionUnits.csproj.CoreCompileInputs.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.OrganizaztionUnits\obj\Debug\netstandard2.1\ZQH.Abp.Identity.OrganizaztionUnits.sourcelink.json
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.OrganizaztionUnits\obj\Debug\netstandard2.1\ZQH.Abp.Identity.OrganizaztionUnits.csproj.Fody.CopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.OrganizaztionUnits\obj\Debug\netstandard2.1\ZQH.Abp.Identity.OrganizaztionUnits.csproj.Fody.RuntimeCopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.OrganizaztionUnits\obj\Debug\netstandard2.1\ZQH.Abp.Identity.OrganizaztionUnits.csproj.CopyComplete
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.OrganizaztionUnits\obj\Debug\netstandard2.1\ZQH.Abp.Identity.OrganizaztionUnits.dll
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.OrganizaztionUnits\obj\Debug\netstandard2.1\ZQH.Abp.Identity.OrganizaztionUnits.pdb

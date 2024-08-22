@@ -1,0 +1,14 @@
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Identity.Domain.csproj.AssemblyReference.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Identity.Domain.AssemblyInfoInputs.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Identity.Domain.AssemblyInfo.cs
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Identity.Domain.csproj.CoreCompileInputs.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Identity.Domain.sourcelink.json
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.1\ZQH.Abp.Identity.Domain.deps.json
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.1\ZQH.Abp.Identity.Domain.dll
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.1\ZQH.Abp.Identity.Domain.pdb
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Identity.Domain.csproj.Fody.CopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Identity.Domain.csproj.Fody.RuntimeCopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Identity.Domain.csproj.CopyComplete
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Identity.Domain.dll
+E:\abp-vue-master\asp.netcore\modules\identity\ZQH.Abp.Identity.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Identity.Domain.pdb
