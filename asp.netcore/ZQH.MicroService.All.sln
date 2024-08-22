@@ -13,23 +13,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{D896B6
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "saas", "saas", "{E9F4B0EA-950E-460C-851A-51259A8B0602}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.Saas.EntityFrameworkCore", "modules\saas\LINGYUN.Abp.Saas.EntityFrameworkCore\LINGYUN.Abp.Saas.EntityFrameworkCore.csproj", "{36415574-967B-46A0-8E64-5251F2D9B2B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Saas.EntityFrameworkCore", "modules\saas\LINGYUN.Abp.Saas.EntityFrameworkCore\ZQH.Abp.Saas.EntityFrameworkCore.csproj", "{36415574-967B-46A0-8E64-5251F2D9B2B3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.Saas.Domain", "modules\saas\LINGYUN.Abp.Saas.Domain\LINGYUN.Abp.Saas.Domain.csproj", "{57649E49-BCD7-48A8-B0B7-9B7B8DF913F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Saas.Domain", "modules\saas\LINGYUN.Abp.Saas.Domain\ZQH.Abp.Saas.Domain.csproj", "{57649E49-BCD7-48A8-B0B7-9B7B8DF913F7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.Saas.Domain.Shared", "modules\saas\LINGYUN.Abp.Saas.Domain.Shared\LINGYUN.Abp.Saas.Domain.Shared.csproj", "{103F542F-3523-4FB0-95AD-3F545EBFB3EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Saas.Domain.Shared", "modules\saas\LINGYUN.Abp.Saas.Domain.Shared\ZQH.Abp.Saas.Domain.Shared.csproj", "{103F542F-3523-4FB0-95AD-3F545EBFB3EF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.Saas.HttpApi.Client", "modules\saas\LINGYUN.Abp.Saas.HttpApi.Client\LINGYUN.Abp.Saas.HttpApi.Client.csproj", "{A1FBD3E0-DD1C-4776-9375-607FEB2DD130}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Saas.HttpApi.Client", "modules\saas\LINGYUN.Abp.Saas.HttpApi.Client\ZQH.Abp.Saas.HttpApi.Client.csproj", "{A1FBD3E0-DD1C-4776-9375-607FEB2DD130}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.Saas.Application.Contracts", "modules\saas\LINGYUN.Abp.Saas.Application.Contracts\LINGYUN.Abp.Saas.Application.Contracts.csproj", "{07215232-C829-4B5C-9062-25C1E9561682}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Saas.Application.Contracts", "modules\saas\LINGYUN.Abp.Saas.Application.Contracts\ZQH.Abp.Saas.Application.Contracts.csproj", "{07215232-C829-4B5C-9062-25C1E9561682}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "framework", "framework", "{B9220F1E-4A6E-43ED-9715-2549BA72627F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tenants", "tenants", "{89BF9401-9C4F-4E58-8B77-F8A7AAB4F13B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.MultiTenancy.Editions", "framework\tenants\LINGYUN.Abp.MultiTenancy.Editions\LINGYUN.Abp.MultiTenancy.Editions.csproj", "{54F0D215-E6B5-436B-9498-06CEB0E2CABF}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.Data.DbMigrator", "framework\common\LINGYUN.Abp.Data.DbMigrator\LINGYUN.Abp.Data.DbMigrator.csproj", "{9A7ED5A1-FCD6-4F54-9723-55E8AA2EC255}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Data.DbMigrator", "framework\common\LINGYUN.Abp.Data.DbMigrator\ZQH.Abp.Data.DbMigrator.csproj", "{9A7ED5A1-FCD6-4F54-9723-55E8AA2EC255}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.MicroService.AuthServer.EntityFrameworkCore", "migrations\ZQH.MicroService.AuthServer.EntityFrameworkCore\ZQH.MicroService.AuthServer.EntityFrameworkCore.csproj", "{508BF4C9-EBEE-468F-8596-9427D4D22097}"
 EndProject
@@ -37,33 +35,77 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.MicroService.AuthServer
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "identity", "identity", "{B8310A15-F3D2-44F3-95C0-C9287F854637}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.Identity.Application", "modules\identity\LINGYUN.Abp.Identity.Application\LINGYUN.Abp.Identity.Application.csproj", "{CE1A57EB-451F-4472-8B4A-85ADC7F4B87A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Identity.Application", "modules\identity\LINGYUN.Abp.Identity.Application\ZQH.Abp.Identity.Application.csproj", "{CE1A57EB-451F-4472-8B4A-85ADC7F4B87A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.Identity.Application.Contracts", "modules\identity\LINGYUN.Abp.Identity.Application.Contracts\LINGYUN.Abp.Identity.Application.Contracts.csproj", "{0A6F37AF-3DEF-4634-BAE9-13E5A2912352}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Identity.Application.Contracts", "modules\identity\LINGYUN.Abp.Identity.Application.Contracts\ZQH.Abp.Identity.Application.Contracts.csproj", "{0A6F37AF-3DEF-4634-BAE9-13E5A2912352}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.Identity.Domain", "modules\identity\LINGYUN.Abp.Identity.Domain\LINGYUN.Abp.Identity.Domain.csproj", "{0ABDB485-C58E-4924-8E9B-0980A0CA40A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Identity.Domain", "modules\identity\LINGYUN.Abp.Identity.Domain\ZQH.Abp.Identity.Domain.csproj", "{0ABDB485-C58E-4924-8E9B-0980A0CA40A1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.Identity.Domain.Shared", "modules\identity\LINGYUN.Abp.Identity.Domain.Shared\LINGYUN.Abp.Identity.Domain.Shared.csproj", "{71802A4D-41FB-4956-B8FF-03309AB0717E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Identity.Domain.Shared", "modules\identity\LINGYUN.Abp.Identity.Domain.Shared\ZQH.Abp.Identity.Domain.Shared.csproj", "{71802A4D-41FB-4956-B8FF-03309AB0717E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.Identity.EntityFrameworkCore", "modules\identity\LINGYUN.Abp.Identity.EntityFrameworkCore\LINGYUN.Abp.Identity.EntityFrameworkCore.csproj", "{740423CD-7E6C-425E-9F35-5FBE2F582F63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Identity.EntityFrameworkCore", "modules\identity\LINGYUN.Abp.Identity.EntityFrameworkCore\ZQH.Abp.Identity.EntityFrameworkCore.csproj", "{740423CD-7E6C-425E-9F35-5FBE2F582F63}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.Identity.HttpApi", "modules\identity\LINGYUN.Abp.Identity.HttpApi\LINGYUN.Abp.Identity.HttpApi.csproj", "{DDF2F98C-91A7-436F-8FBB-0017CA50C6C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Identity.HttpApi", "modules\identity\LINGYUN.Abp.Identity.HttpApi\ZQH.Abp.Identity.HttpApi.csproj", "{DDF2F98C-91A7-436F-8FBB-0017CA50C6C6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.Identity.HttpApi.Client", "modules\identity\LINGYUN.Abp.Identity.HttpApi.Client\LINGYUN.Abp.Identity.HttpApi.Client.csproj", "{E4A78D04-34FA-4D6F-B6F6-C105792D934A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Identity.HttpApi.Client", "modules\identity\LINGYUN.Abp.Identity.HttpApi.Client\ZQH.Abp.Identity.HttpApi.Client.csproj", "{E4A78D04-34FA-4D6F-B6F6-C105792D934A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.Identity.OrganizaztionUnits", "modules\identity\LINGYUN.Abp.Identity.OrganizaztionUnits\LINGYUN.Abp.Identity.OrganizaztionUnits.csproj", "{12F772F7-3EA6-46BB-908D-E75B5E6D10E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Identity.OrganizaztionUnits", "modules\identity\LINGYUN.Abp.Identity.OrganizaztionUnits\ZQH.Abp.Identity.OrganizaztionUnits.csproj", "{12F772F7-3EA6-46BB-908D-E75B5E6D10E2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "authorization", "authorization", "{72C4E22D-86C9-4E3A-8A4F-F6D75C8D1DCE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.Authorization.OrganizationUnits", "framework\authorization\LINGYUN.Abp.Authorization.OrganizationUnits\LINGYUN.Abp.Authorization.OrganizationUnits.csproj", "{64BFE92A-14AF-4D67-BC21-7F663D69771B}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "text-templating", "text-templating", "{C5602EAA-7B4D-469C-8E89-6D7C17C6FDC6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.TextTemplating.EntityFrameworkCore", "modules\text-templating\LINGYUN.Abp.TextTemplating.EntityFrameworkCore\LINGYUN.Abp.TextTemplating.EntityFrameworkCore.csproj", "{FDF6B940-A25A-4C55-8B75-7AEBFC744FF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.TextTemplating.EntityFrameworkCore", "modules\text-templating\LINGYUN.Abp.TextTemplating.EntityFrameworkCore\ZQH.Abp.TextTemplating.EntityFrameworkCore.csproj", "{FDF6B940-A25A-4C55-8B75-7AEBFC744FF5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.TextTemplating.Domain", "modules\text-templating\LINGYUN.Abp.TextTemplating.Domain\LINGYUN.Abp.TextTemplating.Domain.csproj", "{EBE808DD-E6D2-47E4-8C3E-CFBBD2C0389B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.TextTemplating.Domain", "modules\text-templating\LINGYUN.Abp.TextTemplating.Domain\ZQH.Abp.TextTemplating.Domain.csproj", "{EBE808DD-E6D2-47E4-8C3E-CFBBD2C0389B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINGYUN.Abp.TextTemplating.Domain.Shared", "modules\text-templating\LINGYUN.Abp.TextTemplating.Domain.Shared\LINGYUN.Abp.TextTemplating.Domain.Shared.csproj", "{C8BAC9B3-11E1-4F96-AC5A-EAA51C38BC93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.TextTemplating.Domain.Shared", "modules\text-templating\LINGYUN.Abp.TextTemplating.Domain.Shared\ZQH.Abp.TextTemplating.Domain.Shared.csproj", "{C8BAC9B3-11E1-4F96-AC5A-EAA51C38BC93}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "auditing", "auditing", "{C6DD6096-1701-4C10-BDCC-5710F0C6E705}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.AuditLogging", "framework\auditing\ZQH.Abp.AuditLogging\ZQH.Abp.AuditLogging.csproj", "{F11DFFC8-D86C-4E04-BD4C-F473538FFA45}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.AuditLogging.Elasticsearch", "framework\auditing\ZQH.Abp.AuditLogging.Elasticsearch\ZQH.Abp.AuditLogging.Elasticsearch.csproj", "{557BDBA1-97DE-43F0-AF15-E06C0A4E8DAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.AuditLogging.EntityFrameworkCore", "framework\auditing\ZQH.Abp.AuditLogging.EntityFrameworkCore\ZQH.Abp.AuditLogging.EntityFrameworkCore.csproj", "{3382FD58-70FF-4C08-8EA2-0067B0F3F418}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "elasticsearch", "elasticsearch", "{D1AEB34C-B2A4-4868-A727-0A87B6058067}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Elasticsearch", "framework\elasticsearch\ZQH.Abp.Elasticsearch\ZQH.Abp.Elasticsearch.csproj", "{A428DC07-E9DE-4269-8E8C-6754C8DA9746}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.MultiTenancy.Editions", "framework\tenants\ZQH.Abp.MultiTenancy.Editions\ZQH.Abp.MultiTenancy.Editions.csproj", "{F0DBC229-FA58-45B5-A9FC-2B95BB7769C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "platform", "platform", "{BEEB3BFB-6383-4410-8A4B-95B0AE21C401}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.MicroService.Platform.DbMigrator", "migrations\ZQH.MicroService.Platform.DbMigrator\ZQH.MicroService.Platform.DbMigrator.csproj", "{0242A35E-7EEB-471A-B647-EF32BD13F22B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.MicroService.Platform.EntityFrameworkCore", "migrations\ZQH.MicroService.Platform.EntityFrameworkCore\ZQH.MicroService.Platform.EntityFrameworkCore.csproj", "{325CCF7D-303E-4E13-BD2E-7377A4F477D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "platform", "platform", "{4AF93242-4990-4798-9825-7B51CA454477}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.UI.Navigation.VueVbenAdmin", "modules\platform\ZQH.Abp.UI.Navigation.VueVbenAdmin\ZQH.Abp.UI.Navigation.VueVbenAdmin.csproj", "{6D0C7177-F829-4236-8630-A068B3D0FA9A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Platform.Application", "modules\platform\ZQH.Platform.Application\ZQH.Platform.Application.csproj", "{AAC87CF3-BD8F-4D85-A48F-03454D323C50}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Platform.Application.Contracts", "modules\platform\ZQH.Platform.Application.Contracts\ZQH.Platform.Application.Contracts.csproj", "{4978DB2F-CC49-4DA3-8B5D-E691C461B903}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Platform.Domain", "modules\platform\ZQH.Platform.Domain\ZQH.Platform.Domain.csproj", "{CC0966CF-E731-47B9-B3D6-100F0ADF8720}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Platform.Domain.Shared", "modules\platform\ZQH.Platform.Domain.Shared\ZQH.Platform.Domain.Shared.csproj", "{200A0CBD-0538-463D-B54A-1904D3C6D214}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Platform.EntityFrameworkCore", "modules\platform\ZQH.Platform.EntityFrameworkCore\ZQH.Platform.EntityFrameworkCore.csproj", "{8AFDC166-F89A-4D7A-BBDF-F118E8DB09E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Platform.HttpApi", "modules\platform\ZQH.Platform.HttpApi\ZQH.Platform.HttpApi.csproj", "{1883B78D-3F93-4AA1-B355-44FABB6EB68D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Platform.Settings.VueVbenAdmin", "modules\platform\ZQH.Platform.Settings.VueVbenAdmin\ZQH.Platform.Settings.VueVbenAdmin.csproj", "{C1C93407-5910-48A5-B865-4E900EA068AC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Platform.Theme.VueVbenAdmin", "modules\platform\ZQH.Platform.Theme.VueVbenAdmin\ZQH.Platform.Theme.VueVbenAdmin.csproj", "{FEC493FA-B3CF-4604-A613-25543AAE8FA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "navigation", "navigation", "{0D073D5F-149A-4CDD-B023-FB49A58685D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.UI.Navigation", "framework\navigation\ZQH.Abp.UI.Navigation\ZQH.Abp.UI.Navigation.csproj", "{7705C507-579A-411D-86F1-C8C17A9E05D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZQH.Abp.Authorization.OrganizationUnits", "framework\authorization\ZQH.Abp.Authorization.OrganizationUnits\ZQH.Abp.Authorization.OrganizationUnits.csproj", "{9F871044-3295-4526-880F-AD4FD5199A9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,10 +133,6 @@ Global
 		{07215232-C829-4B5C-9062-25C1E9561682}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07215232-C829-4B5C-9062-25C1E9561682}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07215232-C829-4B5C-9062-25C1E9561682}.Release|Any CPU.Build.0 = Release|Any CPU
-		{54F0D215-E6B5-436B-9498-06CEB0E2CABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{54F0D215-E6B5-436B-9498-06CEB0E2CABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{54F0D215-E6B5-436B-9498-06CEB0E2CABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{54F0D215-E6B5-436B-9498-06CEB0E2CABF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9A7ED5A1-FCD6-4F54-9723-55E8AA2EC255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9A7ED5A1-FCD6-4F54-9723-55E8AA2EC255}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A7ED5A1-FCD6-4F54-9723-55E8AA2EC255}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -139,10 +177,6 @@ Global
 		{12F772F7-3EA6-46BB-908D-E75B5E6D10E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12F772F7-3EA6-46BB-908D-E75B5E6D10E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12F772F7-3EA6-46BB-908D-E75B5E6D10E2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{64BFE92A-14AF-4D67-BC21-7F663D69771B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{64BFE92A-14AF-4D67-BC21-7F663D69771B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{64BFE92A-14AF-4D67-BC21-7F663D69771B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{64BFE92A-14AF-4D67-BC21-7F663D69771B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FDF6B940-A25A-4C55-8B75-7AEBFC744FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FDF6B940-A25A-4C55-8B75-7AEBFC744FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDF6B940-A25A-4C55-8B75-7AEBFC744FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -155,6 +189,78 @@ Global
 		{C8BAC9B3-11E1-4F96-AC5A-EAA51C38BC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8BAC9B3-11E1-4F96-AC5A-EAA51C38BC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8BAC9B3-11E1-4F96-AC5A-EAA51C38BC93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11DFFC8-D86C-4E04-BD4C-F473538FFA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11DFFC8-D86C-4E04-BD4C-F473538FFA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11DFFC8-D86C-4E04-BD4C-F473538FFA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11DFFC8-D86C-4E04-BD4C-F473538FFA45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{557BDBA1-97DE-43F0-AF15-E06C0A4E8DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557BDBA1-97DE-43F0-AF15-E06C0A4E8DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557BDBA1-97DE-43F0-AF15-E06C0A4E8DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557BDBA1-97DE-43F0-AF15-E06C0A4E8DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3382FD58-70FF-4C08-8EA2-0067B0F3F418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3382FD58-70FF-4C08-8EA2-0067B0F3F418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3382FD58-70FF-4C08-8EA2-0067B0F3F418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3382FD58-70FF-4C08-8EA2-0067B0F3F418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A428DC07-E9DE-4269-8E8C-6754C8DA9746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A428DC07-E9DE-4269-8E8C-6754C8DA9746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A428DC07-E9DE-4269-8E8C-6754C8DA9746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A428DC07-E9DE-4269-8E8C-6754C8DA9746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0DBC229-FA58-45B5-A9FC-2B95BB7769C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DBC229-FA58-45B5-A9FC-2B95BB7769C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0DBC229-FA58-45B5-A9FC-2B95BB7769C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0DBC229-FA58-45B5-A9FC-2B95BB7769C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0242A35E-7EEB-471A-B647-EF32BD13F22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0242A35E-7EEB-471A-B647-EF32BD13F22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0242A35E-7EEB-471A-B647-EF32BD13F22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0242A35E-7EEB-471A-B647-EF32BD13F22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325CCF7D-303E-4E13-BD2E-7377A4F477D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325CCF7D-303E-4E13-BD2E-7377A4F477D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325CCF7D-303E-4E13-BD2E-7377A4F477D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325CCF7D-303E-4E13-BD2E-7377A4F477D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0C7177-F829-4236-8630-A068B3D0FA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0C7177-F829-4236-8630-A068B3D0FA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0C7177-F829-4236-8630-A068B3D0FA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0C7177-F829-4236-8630-A068B3D0FA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC87CF3-BD8F-4D85-A48F-03454D323C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC87CF3-BD8F-4D85-A48F-03454D323C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC87CF3-BD8F-4D85-A48F-03454D323C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC87CF3-BD8F-4D85-A48F-03454D323C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4978DB2F-CC49-4DA3-8B5D-E691C461B903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4978DB2F-CC49-4DA3-8B5D-E691C461B903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4978DB2F-CC49-4DA3-8B5D-E691C461B903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4978DB2F-CC49-4DA3-8B5D-E691C461B903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC0966CF-E731-47B9-B3D6-100F0ADF8720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0966CF-E731-47B9-B3D6-100F0ADF8720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0966CF-E731-47B9-B3D6-100F0ADF8720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0966CF-E731-47B9-B3D6-100F0ADF8720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200A0CBD-0538-463D-B54A-1904D3C6D214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200A0CBD-0538-463D-B54A-1904D3C6D214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200A0CBD-0538-463D-B54A-1904D3C6D214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200A0CBD-0538-463D-B54A-1904D3C6D214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AFDC166-F89A-4D7A-BBDF-F118E8DB09E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFDC166-F89A-4D7A-BBDF-F118E8DB09E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFDC166-F89A-4D7A-BBDF-F118E8DB09E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFDC166-F89A-4D7A-BBDF-F118E8DB09E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1883B78D-3F93-4AA1-B355-44FABB6EB68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1883B78D-3F93-4AA1-B355-44FABB6EB68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1883B78D-3F93-4AA1-B355-44FABB6EB68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1883B78D-3F93-4AA1-B355-44FABB6EB68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C93407-5910-48A5-B865-4E900EA068AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C93407-5910-48A5-B865-4E900EA068AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C93407-5910-48A5-B865-4E900EA068AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C93407-5910-48A5-B865-4E900EA068AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC493FA-B3CF-4604-A613-25543AAE8FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC493FA-B3CF-4604-A613-25543AAE8FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC493FA-B3CF-4604-A613-25543AAE8FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC493FA-B3CF-4604-A613-25543AAE8FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7705C507-579A-411D-86F1-C8C17A9E05D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7705C507-579A-411D-86F1-C8C17A9E05D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7705C507-579A-411D-86F1-C8C17A9E05D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7705C507-579A-411D-86F1-C8C17A9E05D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F871044-3295-4526-880F-AD4FD5199A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F871044-3295-4526-880F-AD4FD5199A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F871044-3295-4526-880F-AD4FD5199A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F871044-3295-4526-880F-AD4FD5199A9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -169,7 +275,6 @@ Global
 		{A1FBD3E0-DD1C-4776-9375-607FEB2DD130} = {E9F4B0EA-950E-460C-851A-51259A8B0602}
 		{07215232-C829-4B5C-9062-25C1E9561682} = {E9F4B0EA-950E-460C-851A-51259A8B0602}
 		{89BF9401-9C4F-4E58-8B77-F8A7AAB4F13B} = {B9220F1E-4A6E-43ED-9715-2549BA72627F}
-		{54F0D215-E6B5-436B-9498-06CEB0E2CABF} = {89BF9401-9C4F-4E58-8B77-F8A7AAB4F13B}
 		{9A7ED5A1-FCD6-4F54-9723-55E8AA2EC255} = {D896B645-FFE1-45A7-8689-20ADDF42B0F6}
 		{508BF4C9-EBEE-468F-8596-9427D4D22097} = {C2915BDE-2C07-45D6-AB74-ADAB39E7679C}
 		{E2993C51-C0F1-48C8-9A11-40CB9B9EB5B9} = {C2915BDE-2C07-45D6-AB74-ADAB39E7679C}
@@ -183,11 +288,33 @@ Global
 		{E4A78D04-34FA-4D6F-B6F6-C105792D934A} = {B8310A15-F3D2-44F3-95C0-C9287F854637}
 		{12F772F7-3EA6-46BB-908D-E75B5E6D10E2} = {B8310A15-F3D2-44F3-95C0-C9287F854637}
 		{72C4E22D-86C9-4E3A-8A4F-F6D75C8D1DCE} = {B9220F1E-4A6E-43ED-9715-2549BA72627F}
-		{64BFE92A-14AF-4D67-BC21-7F663D69771B} = {72C4E22D-86C9-4E3A-8A4F-F6D75C8D1DCE}
 		{C5602EAA-7B4D-469C-8E89-6D7C17C6FDC6} = {9344597E-F9C3-48E5-BAFA-E92CA416D435}
 		{FDF6B940-A25A-4C55-8B75-7AEBFC744FF5} = {C5602EAA-7B4D-469C-8E89-6D7C17C6FDC6}
 		{EBE808DD-E6D2-47E4-8C3E-CFBBD2C0389B} = {C5602EAA-7B4D-469C-8E89-6D7C17C6FDC6}
 		{C8BAC9B3-11E1-4F96-AC5A-EAA51C38BC93} = {C5602EAA-7B4D-469C-8E89-6D7C17C6FDC6}
+		{C6DD6096-1701-4C10-BDCC-5710F0C6E705} = {B9220F1E-4A6E-43ED-9715-2549BA72627F}
+		{F11DFFC8-D86C-4E04-BD4C-F473538FFA45} = {C6DD6096-1701-4C10-BDCC-5710F0C6E705}
+		{557BDBA1-97DE-43F0-AF15-E06C0A4E8DAF} = {C6DD6096-1701-4C10-BDCC-5710F0C6E705}
+		{3382FD58-70FF-4C08-8EA2-0067B0F3F418} = {C6DD6096-1701-4C10-BDCC-5710F0C6E705}
+		{D1AEB34C-B2A4-4868-A727-0A87B6058067} = {B9220F1E-4A6E-43ED-9715-2549BA72627F}
+		{A428DC07-E9DE-4269-8E8C-6754C8DA9746} = {D1AEB34C-B2A4-4868-A727-0A87B6058067}
+		{F0DBC229-FA58-45B5-A9FC-2B95BB7769C4} = {89BF9401-9C4F-4E58-8B77-F8A7AAB4F13B}
+		{BEEB3BFB-6383-4410-8A4B-95B0AE21C401} = {35DEDA38-9284-453D-8965-B75DF532B525}
+		{0242A35E-7EEB-471A-B647-EF32BD13F22B} = {BEEB3BFB-6383-4410-8A4B-95B0AE21C401}
+		{325CCF7D-303E-4E13-BD2E-7377A4F477D5} = {BEEB3BFB-6383-4410-8A4B-95B0AE21C401}
+		{4AF93242-4990-4798-9825-7B51CA454477} = {9344597E-F9C3-48E5-BAFA-E92CA416D435}
+		{6D0C7177-F829-4236-8630-A068B3D0FA9A} = {4AF93242-4990-4798-9825-7B51CA454477}
+		{AAC87CF3-BD8F-4D85-A48F-03454D323C50} = {4AF93242-4990-4798-9825-7B51CA454477}
+		{4978DB2F-CC49-4DA3-8B5D-E691C461B903} = {4AF93242-4990-4798-9825-7B51CA454477}
+		{CC0966CF-E731-47B9-B3D6-100F0ADF8720} = {4AF93242-4990-4798-9825-7B51CA454477}
+		{200A0CBD-0538-463D-B54A-1904D3C6D214} = {4AF93242-4990-4798-9825-7B51CA454477}
+		{8AFDC166-F89A-4D7A-BBDF-F118E8DB09E2} = {4AF93242-4990-4798-9825-7B51CA454477}
+		{1883B78D-3F93-4AA1-B355-44FABB6EB68D} = {4AF93242-4990-4798-9825-7B51CA454477}
+		{C1C93407-5910-48A5-B865-4E900EA068AC} = {4AF93242-4990-4798-9825-7B51CA454477}
+		{FEC493FA-B3CF-4604-A613-25543AAE8FA0} = {4AF93242-4990-4798-9825-7B51CA454477}
+		{0D073D5F-149A-4CDD-B023-FB49A58685D1} = {B9220F1E-4A6E-43ED-9715-2549BA72627F}
+		{7705C507-579A-411D-86F1-C8C17A9E05D6} = {0D073D5F-149A-4CDD-B023-FB49A58685D1}
+		{9F871044-3295-4526-880F-AD4FD5199A9A} = {72C4E22D-86C9-4E3A-8A4F-F6D75C8D1DCE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {68C70E1D-5441-48CF-813F-69C906241E10}
