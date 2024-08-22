@@ -1,0 +1,15 @@
+E:\abp-vue-master\asp.netcore\LocalNuget\net8.0\ZQH.Abp.Localization.CultureMap.deps.json
+E:\abp-vue-master\asp.netcore\LocalNuget\net8.0\ZQH.Abp.Localization.CultureMap.dll
+E:\abp-vue-master\asp.netcore\LocalNuget\net8.0\ZQH.Abp.Localization.CultureMap.pdb
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.CultureMap\obj\Debug\net8.0\ZQH.Abp.Localization.CultureMap.csproj.AssemblyReference.cache
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.CultureMap\obj\Debug\net8.0\ZQH.Abp.Localization.CultureMap.GeneratedMSBuildEditorConfig.editorconfig
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.CultureMap\obj\Debug\net8.0\ZQH.Abp.Localization.CultureMap.AssemblyInfoInputs.cache
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.CultureMap\obj\Debug\net8.0\ZQH.Abp.Localization.CultureMap.AssemblyInfo.cs
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.CultureMap\obj\Debug\net8.0\ZQH.Abp.Localization.CultureMap.csproj.CoreCompileInputs.cache
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.CultureMap\obj\Debug\net8.0\ZQH.Abp.Localization.CultureMap.sourcelink.json
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.CultureMap\obj\Debug\net8.0\ZQH.Abp.Localization.CultureMap.csproj.Fody.CopyLocal.cache
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.CultureMap\obj\Debug\net8.0\ZQH.Abp.Localization.CultureMap.csproj.Fody.RuntimeCopyLocal.cache
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.CultureMap\obj\Debug\net8.0\ZQH.Abp.Localization.CultureMap.dll
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.CultureMap\obj\Debug\net8.0\refint\ZQH.Abp.Localization.CultureMap.dll
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.CultureMap\obj\Debug\net8.0\ZQH.Abp.Localization.CultureMap.pdb
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.CultureMap\obj\Debug\net8.0\ref\ZQH.Abp.Localization.CultureMap.dll

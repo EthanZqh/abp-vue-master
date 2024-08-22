@@ -1,0 +1,13 @@
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.0\ZQH.Abp.Localization.Persistence.deps.json
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.0\ZQH.Abp.Localization.Persistence.dll
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.0\ZQH.Abp.Localization.Persistence.pdb
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Persistence\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Persistence.csproj.AssemblyReference.cache
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Persistence\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Persistence\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Persistence.AssemblyInfoInputs.cache
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Persistence\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Persistence.AssemblyInfo.cs
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Persistence\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Persistence.csproj.CoreCompileInputs.cache
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Persistence\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Persistence.sourcelink.json
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Persistence\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Persistence.csproj.Fody.CopyLocal.cache
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Persistence\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Persistence.csproj.Fody.RuntimeCopyLocal.cache
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Persistence\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Persistence.dll
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Persistence\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Persistence.pdb

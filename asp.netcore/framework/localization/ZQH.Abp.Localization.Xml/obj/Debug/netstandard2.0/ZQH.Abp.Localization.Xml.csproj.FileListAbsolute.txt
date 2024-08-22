@@ -1,0 +1,13 @@
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.0\ZQH.Abp.Localization.Xml.deps.json
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.0\ZQH.Abp.Localization.Xml.dll
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.0\ZQH.Abp.Localization.Xml.pdb
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Xml\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Xml.csproj.AssemblyReference.cache
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Xml\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Xml.GeneratedMSBuildEditorConfig.editorconfig
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Xml\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Xml.AssemblyInfoInputs.cache
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Xml\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Xml.AssemblyInfo.cs
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Xml\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Xml.csproj.CoreCompileInputs.cache
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Xml\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Xml.sourcelink.json
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Xml\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Xml.csproj.Fody.CopyLocal.cache
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Xml\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Xml.csproj.Fody.RuntimeCopyLocal.cache
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Xml\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Xml.dll
+E:\abp-vue-master\asp.netcore\framework\localization\ZQH.Abp.Localization.Xml\obj\Debug\netstandard2.0\ZQH.Abp.Localization.Xml.pdb

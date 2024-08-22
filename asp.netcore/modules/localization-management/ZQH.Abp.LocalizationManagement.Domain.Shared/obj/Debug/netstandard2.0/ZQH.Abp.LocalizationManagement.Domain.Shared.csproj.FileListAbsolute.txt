@@ -1,0 +1,13 @@
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.0\ZQH.Abp.LocalizationManagement.Domain.Shared.deps.json
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.0\ZQH.Abp.LocalizationManagement.Domain.Shared.dll
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.0\ZQH.Abp.LocalizationManagement.Domain.Shared.pdb
+E:\abp-vue-master\asp.netcore\modules\localization-management\ZQH.Abp.LocalizationManagement.Domain.Shared\obj\Debug\netstandard2.0\ZQH.Abp.LocalizationManagement.Domain.Shared.csproj.AssemblyReference.cache
+E:\abp-vue-master\asp.netcore\modules\localization-management\ZQH.Abp.LocalizationManagement.Domain.Shared\obj\Debug\netstandard2.0\ZQH.Abp.LocalizationManagement.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\abp-vue-master\asp.netcore\modules\localization-management\ZQH.Abp.LocalizationManagement.Domain.Shared\obj\Debug\netstandard2.0\ZQH.Abp.LocalizationManagement.Domain.Shared.AssemblyInfoInputs.cache
+E:\abp-vue-master\asp.netcore\modules\localization-management\ZQH.Abp.LocalizationManagement.Domain.Shared\obj\Debug\netstandard2.0\ZQH.Abp.LocalizationManagement.Domain.Shared.AssemblyInfo.cs
+E:\abp-vue-master\asp.netcore\modules\localization-management\ZQH.Abp.LocalizationManagement.Domain.Shared\obj\Debug\netstandard2.0\ZQH.Abp.LocalizationManagement.Domain.Shared.csproj.CoreCompileInputs.cache
+E:\abp-vue-master\asp.netcore\modules\localization-management\ZQH.Abp.LocalizationManagement.Domain.Shared\obj\Debug\netstandard2.0\ZQH.Abp.LocalizationManagement.Domain.Shared.sourcelink.json
+E:\abp-vue-master\asp.netcore\modules\localization-management\ZQH.Abp.LocalizationManagement.Domain.Shared\obj\Debug\netstandard2.0\ZQH.Abp.LocalizationManagement.Domain.Shared.csproj.Fody.CopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\localization-management\ZQH.Abp.LocalizationManagement.Domain.Shared\obj\Debug\netstandard2.0\ZQH.Abp.LocalizationManagement.Domain.Shared.csproj.Fody.RuntimeCopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\localization-management\ZQH.Abp.LocalizationManagement.Domain.Shared\obj\Debug\netstandard2.0\ZQH.Abp.LocalizationManagement.Domain.Shared.dll
+E:\abp-vue-master\asp.netcore\modules\localization-management\ZQH.Abp.LocalizationManagement.Domain.Shared\obj\Debug\netstandard2.0\ZQH.Abp.LocalizationManagement.Domain.Shared.pdb

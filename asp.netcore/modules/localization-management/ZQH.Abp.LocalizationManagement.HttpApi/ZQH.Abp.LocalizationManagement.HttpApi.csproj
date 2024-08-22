@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="..\..\..\..\configureawait.props" />
+	<Import Project="..\..\..\..\common.props" />
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<RootNamespace />
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\..\..\framework\localization\ZQH.Abp.AspNetCore.Mvc.Localization\ZQH.Abp.AspNetCore.Mvc.Localization.csproj" />
+	  <ProjectReference Include="..\ZQH.Abp.LocalizationManagement.Application.Contracts\ZQH.Abp.LocalizationManagement.Application.Contracts.csproj" />
+	</ItemGroup>
+
+</Project>

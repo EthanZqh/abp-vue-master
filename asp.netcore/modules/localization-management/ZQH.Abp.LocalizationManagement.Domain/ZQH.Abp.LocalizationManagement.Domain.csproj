@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="..\..\..\..\configureawait.props" />
+	<Import Project="..\..\..\..\common.props" />
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<RootNamespace />
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Volo.Abp.AutoMapper" />
+		<PackageReference Include="Volo.Abp.Ddd.Domain" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\..\..\framework\localization\ZQH.Abp.Localization.Persistence\ZQH.Abp.Localization.Persistence.csproj" />
+	  <ProjectReference Include="..\ZQH.Abp.LocalizationManagement.Domain.Shared\ZQH.Abp.LocalizationManagement.Domain.Shared.csproj" />
+	</ItemGroup>
+
+</Project>
