@@ -1,0 +1,16 @@
+E:\abp-vue-master\asp.netcore\LocalNuget\net8.0\ZQH.Abp.Saas.EntityFrameworkCore.deps.json
+E:\abp-vue-master\asp.netcore\LocalNuget\net8.0\ZQH.Abp.Saas.EntityFrameworkCore.dll
+E:\abp-vue-master\asp.netcore\LocalNuget\net8.0\ZQH.Abp.Saas.EntityFrameworkCore.pdb
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Saas.EntityFrameworkCore.csproj.AssemblyReference.cache
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Saas.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Saas.EntityFrameworkCore.AssemblyInfoInputs.cache
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Saas.EntityFrameworkCore.AssemblyInfo.cs
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Saas.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Saas.EntityFrameworkCore.sourcelink.json
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Saas.EntityFrameworkCore.csproj.Fody.CopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Saas.EntityFrameworkCore.csproj.Fody.RuntimeCopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Saas.EntityFrameworkCore.csproj.CopyComplete
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Saas.EntityFrameworkCore.dll
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.EntityFrameworkCore\obj\Debug\net8.0\refint\ZQH.Abp.Saas.EntityFrameworkCore.dll
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.EntityFrameworkCore\obj\Debug\net8.0\ZQH.Abp.Saas.EntityFrameworkCore.pdb
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.EntityFrameworkCore\obj\Debug\net8.0\ref\ZQH.Abp.Saas.EntityFrameworkCore.dll

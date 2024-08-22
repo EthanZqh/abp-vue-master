@@ -1,0 +1,14 @@
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.1\ZQH.Abp.Saas.Domain.deps.json
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.1\ZQH.Abp.Saas.Domain.dll
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.1\ZQH.Abp.Saas.Domain.pdb
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Saas.Domain.csproj.AssemblyReference.cache
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Saas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Saas.Domain.AssemblyInfoInputs.cache
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Saas.Domain.AssemblyInfo.cs
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Saas.Domain.csproj.CoreCompileInputs.cache
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Saas.Domain.sourcelink.json
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Saas.Domain.csproj.Fody.CopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Saas.Domain.csproj.Fody.RuntimeCopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Saas.Domain.csproj.CopyComplete
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Saas.Domain.dll
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Domain\obj\Debug\netstandard2.1\ZQH.Abp.Saas.Domain.pdb

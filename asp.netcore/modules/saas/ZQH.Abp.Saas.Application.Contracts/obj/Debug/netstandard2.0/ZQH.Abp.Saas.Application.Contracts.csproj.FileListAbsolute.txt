@@ -1,0 +1,14 @@
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.0\ZQH.Abp.Saas.Application.Contracts.deps.json
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.0\ZQH.Abp.Saas.Application.Contracts.dll
+E:\abp-vue-master\asp.netcore\LocalNuget\netstandard2.0\ZQH.Abp.Saas.Application.Contracts.pdb
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Application.Contracts\obj\Debug\netstandard2.0\ZQH.Abp.Saas.Application.Contracts.csproj.AssemblyReference.cache
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Application.Contracts\obj\Debug\netstandard2.0\ZQH.Abp.Saas.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Application.Contracts\obj\Debug\netstandard2.0\ZQH.Abp.Saas.Application.Contracts.AssemblyInfoInputs.cache
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Application.Contracts\obj\Debug\netstandard2.0\ZQH.Abp.Saas.Application.Contracts.AssemblyInfo.cs
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Application.Contracts\obj\Debug\netstandard2.0\ZQH.Abp.Saas.Application.Contracts.csproj.CoreCompileInputs.cache
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Application.Contracts\obj\Debug\netstandard2.0\ZQH.Abp.Saas.Application.Contracts.sourcelink.json
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Application.Contracts\obj\Debug\netstandard2.0\ZQH.Abp.Saas.Application.Contracts.csproj.Fody.CopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Application.Contracts\obj\Debug\netstandard2.0\ZQH.Abp.Saas.Application.Contracts.csproj.Fody.RuntimeCopyLocal.cache
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Application.Contracts\obj\Debug\netstandard2.0\ZQH.Abp.Saas.Application.Contracts.csproj.CopyComplete
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Application.Contracts\obj\Debug\netstandard2.0\ZQH.Abp.Saas.Application.Contracts.dll
+E:\abp-vue-master\asp.netcore\modules\saas\ZQH.Abp.Saas.Application.Contracts\obj\Debug\netstandard2.0\ZQH.Abp.Saas.Application.Contracts.pdb
